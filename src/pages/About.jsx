@@ -25,8 +25,8 @@ const About = ({helmet}) => {
                          سلام ملیکا اصلاحی هستم.  متولد سال 1379 و ساکن تهران توسعه دهنده ی و برنامه نویس برنامه های تحت وب هستم و فعالیت خود را از سال 1398 آغاز کرده ام
                                 </p>
                         <ul>
-                            {about.map(({ label , value }) => (
-                                <li key={label} className="font-vazir grid grid-cols-2 mb-2 break-all dark:text-white ">
+                            {about.map(({ id,  label , value }) => (
+                                <li key={id} className="font-vazir grid grid-cols-2 mb-2 break-all dark:text-white ">
                                     <span className="font-bold  text-sm md:text-base lg:text-base xl:text-base text-right">  {label}: </span>
                                     <span className="text-sm md:text-base lg:text-base xl:text-base text-center"> {value}</span>
                                 </li>
