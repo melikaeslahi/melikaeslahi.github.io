@@ -20,7 +20,7 @@ const Contact = ({helmet}) => {
                 </section>
                 <section>
                 <a
-                                    href="mailto:younes.gh@chmail.ir"
+                                    href="mailto:melika.eslahi@gmail.com"
                                     alt="email"
                                     className='text-hover text-sm lg:text-base md:text-base xl:text-base'
                                 >
