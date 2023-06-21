@@ -1,6 +1,6 @@
 import { Helmet } from 'react-helmet';
 import  {profile} from '../assets/image';
-import { about } from '../constants/About';
+import { about } from '../constants/about';
 import  Resume from '../assets/pdf/melikaeslahi.pdf'
  
 const About = ({helmet}) => {
