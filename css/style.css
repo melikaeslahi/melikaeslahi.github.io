@@ -1,0 +1,45 @@
+@font-face{
+    font-family: 'vazir';
+    src:url(../fonts/Vazir.eot) format('eot');
+    src:url(../fonts/Vazir.ttf) format('ttf');
+    src:url(../fonts/Vazir.woff) format('woff');
+    src:url(../fonts/Vazir.woff2) format('woff2');
+}
+@font-face{
+    font-family: 'tanha';
+    src:url(../fonts/Tanha.eot) format('eot');
+    src:url(../fonts/Tanhattf) format('ttf');
+    src:url(../fonts/Tanha.woff) format('woff');
+    src:url(../fonts/Tanha.woff2) format('woff2');
+}
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.header{  
+    height: auto;
+    background-image:linear-gradient(rgba(0 , 0 , 0 ,0.8) ,rgba(0 , 0 , 0 ,0.6)  ), url(  /src/assets/image/imageHeader1.png ) ;
+    background-size: cover;
+    background-repeat: no-repeat; 
+  
+}
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  :-webkit-scrollbar-thumb {
+    background: #888;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #A8D1E7;
+    border-radius: 10px;
+  }
+
+  
+   
+  
+ 
