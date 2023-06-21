@@ -51,7 +51,7 @@ const About = ({helmet}) => {
                         </button>
                         <button className="font-vazir bg-transparent text-hover text-sm lg:text-base md:text-base border border-hover rounded m-2 p-2 hover:text-white hover:bg-hover" >
                           <a
-                                    href="mailto:younes.gh@chmail.ir"
+                                    href="mailto:melika.eslahi@gmail.com"
                                     alt="email"
                                     className='text-hover hover:text-white'
                                 >
