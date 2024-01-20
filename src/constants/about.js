@@ -22,17 +22,17 @@ export const about =[
     {
         id: 5,
         label:'آدرس وبسایت',
-        value:'www.Melika.Eslahi.com'
+        value:'_'
     },
     {
         id: 6,
         label:'تاریخ تولد',
-        value:'21 خرداد1379'
+        value:'خرداد ۱۳۷۹'
     },
     {
         id: 7,
         label:'آدرس',
-        value:'تهران - رودهن -خیابان سجادیان'
+        value:'تهران -رودهن'
     },
 
 ]
