@@ -1,1 +1,0 @@
-import{r,D as o,j as t}from"./index-4d78534e.js";const n=()=>{const{darkModeToggle:e}=r.useContext(o);return t.jsx("div",{className:`flex  justify-center  items-center bg-gray-200 w-full h-36  ${e===!0?"dark dark:bg-zinc-700":"light"}`,children:t.jsx("h1",{className:"text-xl text-blue font-bold font-tanha m-5",children:"« محتوایی یافت نشد »"})})};export{n as C};
