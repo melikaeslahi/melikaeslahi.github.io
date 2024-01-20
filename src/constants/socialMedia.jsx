@@ -5,24 +5,15 @@ export const socialMedia = [
         link:'https://telegram.com/melikaeslahi'
     },
     {
-        id:2,
-        icon:'whatsapp',
-        link:'https://whatsapp.com/melikaeslahi'
-    },
-    {
         id:3,
         icon:'facebook-square',
         link:'https://facebook.com/melikaeslahi'
     },
-    {
-        id:4,
-        icon:'twitter',
-        link:'https://twitter.com/melikaeslahi'
-    },
+    
     {
         id:5,
         icon:'instagram',
-        link:'https://instagram.com/melikaeslahi'
+        link:'https://instagram.com/meliesdevv'
     },
     {
         id:6,
