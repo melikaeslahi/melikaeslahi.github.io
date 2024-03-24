@@ -1,5 +1,5 @@
 import { Helmet } from 'react-helmet';
-import  {profile} from '../assets/image';
+import  {profile} from '../assets/image/profile.jpg';
 import { about } from '../constants/about';
 import  Resume from '../assets/pdf/melikaeslahi.pdf'
  
